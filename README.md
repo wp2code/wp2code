@@ -1,7 +1,5 @@
-## Hi there 👋
-
-<!--
-**wp2code/wp2code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Coding ✨✨✨
+<!-- **wp2code/wp2code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wp2code&theme=tokyonight)](https://github.com/wp2code/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wp2code&repo=kaleido)](https://github.com/wp2code/github-readme-stats)
+  
